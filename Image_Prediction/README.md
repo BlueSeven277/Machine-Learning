@@ -21,3 +21,12 @@ Make sure you installed the following dependencies.
  pip3 install keras 
  
 After that, install imageAI by following instuctions: https://github.com/OlafenwaMoses/ImageAI
+
+As a result, the following image for example
+![](https://github.com/BlueSeven277/Machine-Learning/Image_Prediction/img1.jpg)
+can be classified to get results with probabilities:
+rapeseed  :  18.913395702838898
+minivan  :  8.979189395904541
+car_mirror  :  8.828253298997879
+picket_fence  :  2.767675556242466
+lakeside  :  2.461925707757473
