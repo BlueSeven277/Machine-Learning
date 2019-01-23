@@ -4,8 +4,8 @@ The libiaries may include sklearn, Keras, TensorFlow, opencv, imageAI, etc.
 
 Description of packages:
 
-package[heart_disease_prediction]:Data analysis according to kaggle dataset: https://www.kaggle.com/ronitf/heart-disease-uci
+1. package[heart_disease_prediction]:Data analysis according to kaggle dataset: https://www.kaggle.com/ronitf/heart-disease-uci
 
-package[chronic_kidney_prediction]:Data analysis according to kaggle dataset: https://www.kaggle.com/mansoordaku/ckdisease
+2. package[chronic_kidney_prediction]:Data analysis according to kaggle dataset: https://www.kaggle.com/mansoordaku/ckdisease
 
-package[Image_Prediction]: Image prediction using imageAI
+3. package[Image_Prediction]: Image prediction using imageAI
