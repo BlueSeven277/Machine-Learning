@@ -26,8 +26,8 @@ As a result, the following image for example:
 ![](https://github.com/BlueSeven277/Machine-Learning/blob/master/Image_Prediction/img1.jpg)
 can be classified to get results with probabilities:
 
-rapeseed  :  18.913395702838898
-minivan  :  8.979189395904541
-car_mirror  :  8.828253298997879
-picket_fence  :  2.767675556242466
-lakeside  :  2.461925707757473
+cardigan  :  91.30910038948059
+stole  :  4.195530340075493
+bonnet  :  0.9958759881556034
+wool  :  0.8504630997776985
+fur_coat  :  0.5948598496615887
