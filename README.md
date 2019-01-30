@@ -11,3 +11,4 @@ Description of packages:
 3. package[Image_Prediction]: Image prediction (object recognition) using imageAI
 
 4. package[Face_Recognition]: Face detection using OpenCV according to OpenCV document. The xml file of CascadeClassifier can be download through official github link: https://github.com/opencv/opencv/tree/master/data/haarcascades
+![Face Detection](https://github.com/BlueSeven277/Machine-Learning/blob/master/img.jpg)
